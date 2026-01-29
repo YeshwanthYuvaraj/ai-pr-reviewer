@@ -8,7 +8,7 @@ on:
 
 jobs:
   # ----------------------------
-  # Job 1: CI checks
+  # Job 1: CI checks 
   # ----------------------------
   ci:
     name: Run CI Checks
